@@ -7,16 +7,12 @@ Datasets generated for scientific publications.
 ## Burnt Area Research
 
 ### EnMAP burnt area perimeter reference dataset
-
 - [burntarea/enmap_wavelengths/enmap_aois.geojson](burntarea/enmap_wavelenghts/enmap_aois.geojson): The footprints of the analysed scenes, together with the
 name of the AOI
 - [burntarea/enmap_wavelengths/enmap_ba_reference.geojson](burntarea/enmap_wavelenghts/enmap_ba_reference.geojson): The digitized burnt area perimeters, together with relevant meta information such as the EnMAP scene id
 
-This dataset is published under the [CC-BY licenese](https://creativecommons.org/licenses/by/4.0/deed.en).
-
-
 ## Licenses
-This software is licensed under the [Apache 2.0 License](https://github.com/dlr-eoc/ukis-data-tutorials/blob/main/LICENSE.txt).
+This data is published under the [CC-BY licenese](https://creativecommons.org/licenses/by/4.0/deed.en).
 
 Copyright (c) 2025 German Aerospace Center (DLR) * German Remote Sensing Data Center * Department: Geo-Risks and Civil Security
 
